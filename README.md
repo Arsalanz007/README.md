@@ -3,7 +3,7 @@ I'm Muhammad Arsalan From Pakistan, and I do Websites & Mobile Applications deve
 
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=react,angular,firebase,nodejs,csharp,mongodb,js,ts,redux,bootstrap,materialui,netlify,azure,css,html)
+![My Skills](https://skillicons.dev/icons?i=react,angular,firebase,nodejs,jquery,cs,mongodb,js,ts,redux,bootstrap,materialui,netlify,azure,css,html)
 
 
 ## Git Overview
