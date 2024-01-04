@@ -12,4 +12,4 @@ I'm Muhammad Arsalan From Pakistan, and I do Websites & Mobile Applications deve
 
 ## Get-in Touch
 
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-arsalan-a25993151/)
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/M-Arsalan-a25993151/)
